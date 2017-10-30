@@ -1,0 +1,6 @@
+.git/*
+.git
+*.exe
+.DS_Store
+*.js
+
